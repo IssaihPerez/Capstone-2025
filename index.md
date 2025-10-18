@@ -6,7 +6,8 @@ Welcome to my ePortfolio, my name is Issaih Perez and this portfolio showcases
 the knowledge and skills I have gained and developed throughout the years of
 studying a Computer Science Degree while at Southern New Hampshire University (SNHU).
 
-<img src="assets/images/selfassessment.jpg" alt="Professional Self Assessment Picture" width="400" length="2000">
+
+<img src="assets/images/selfassessment.jpg" alt="Professional Self Assessment Picture" width="500">
 
 ## **Professional Self Assessment**
 Throughout my academic and professional journey, I have developed a broad and practical
@@ -14,6 +15,9 @@ foundation in computer science, supported by real world applications in software
 data management, and cybersecurity. My experiences reflect a strong ability to work
 collaboratively, communicate effectively with stakeholders, and apply technical expertise in
 data structures, algorithms, databases, and secure software development.
+
+<img src="assets/images/teamcollaboration.jpg" alt="Team Collaboration Picture" width="500">
+
 
 ### ***Collaborating in a Team Environment***
 Collaboration has been central to my development as a software engineer. During my senior year
