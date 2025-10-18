@@ -16,8 +16,8 @@ data management, and cybersecurity. My experiences reflect a strong ability to w
 collaboratively, communicate effectively with stakeholders, and apply technical expertise in
 data structures, algorithms, databases, and secure software development.
 
-<img src="assets/images/teamcollaboration.jpg" alt="Team Collaboration Picture" width="500">
 
+<img src="assets/images/teamcollaboration.jpg" alt="Team Collaboration Picture" width="400">
 
 ### ***Collaborating in a Team Environment***
 Collaboration has been central to my development as a software engineer. During my senior year
@@ -26,6 +26,9 @@ assets and realistic interactions with the system. My responsibilities included 
 of the AI developed assets, different UI or HUD capabilities, and I coordinated closely with teammates
 using Agile methodologies, closely monitored and recorded/saved the updated work using Git, and
 coordinated/led daily follow up meetings to ensure smooth progress and accurate data retention.
+
+
+<img src="assets/images/communicating.jpg" alt="Communicating with Shareholders Picture" width="500">
 
 ### ***Communicating with Stakeholders***
 Effective communication with non technical stakeholders has been essential to translating technical
