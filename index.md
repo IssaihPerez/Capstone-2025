@@ -62,11 +62,11 @@ ensure robust input validation and reduce potential vulnerabilities from unautho
 
 ***Enhanced Artifacts***
 Throughout this degree, I’ve developed a strong understanding of what it means to be a Computer Science 
-professional. The first key artifact I chose was from CS 250: Software Development Lifecycle and it demonstrates 
+professional. The first key artifact I chose was from CS 250 Software Development Lifecycle and it demonstrates 
 my ability to apply well-founded and innovative techniques in real-world contexts. This project originally involved
 a Java-based application that launched an executable to display a browser interface, allowing users to explore
 various travel destinations through clickable links. As part of improving the artifact, I ported the entire
-application from Java to C++, a challenging task that required learning and using CMake in place of Java’s Swing
+application from Java to C Plus Plus, a challenging task that required learning and using CMake in place of Java’s Swing
 framework. This transition involved thoughtful decision-making and trade-offs, particularly in adapting the interface
 and preserving the application's functionality across different languages and platforms. Successfully recreating the
 project in C++ not only reflects technical proficiency but also highlights my ability to adapt and innovate under
@@ -76,7 +76,7 @@ information sharing across different systems, demonstrating how software can bri
 within the field. By combining strong technical skills with a focus on usability and cross-functional collaboration,
 this artifact represents my growth as a well-rounded and capable computer science professional.
 
-The second artifact I chose was from CS 330: Computational Graphics and Visualization and this artifact showcases my
+The second artifact I chose was from CS 330 Computational Graphics and Visualization and this artifact showcases my
 ability to develop appropriate solutions to complex design problems while effectively balancing the trade-offs that
 come with different design decisions. The project, completed using the Virtual Lab environment, involved creating a 3D
 mesh scenery application using various shapes and objects constructed through code. At the outset, I encountered a
@@ -88,7 +88,7 @@ to emphasize. I had to carefully balance components such as lighting, shapes, te
 elements. This iterative refinement process demonstrates my ability to evaluate trade-offs, prioritize features, and
 make informed decisions—skills that are essential both in academic settings and in professional client work.
 
-The final artifact was pulled from CS 340: Client-Server Development and demonstrates my ability to design, develop,
+The final artifact was pulled from CS 340 Client-Server Development and demonstrates my ability to design, develop,
 and deliver technically sound, professional-quality work while applying a security-focused mindset. Built in Python using
 .ipynb and .py files, the project is a web application that interacts with a database of animals. I restructured the
 original setup by consolidating multiple access points into a single entry, improving usability and security. I updated
