@@ -1,3 +1,8 @@
 theme: jekyll-theme-midnight
 title: Issaih Perez ePortofolio Page!
 url: "https://github.com/IssaihPerez/Capstone-2025"
+
+toc: true
+
+exclude:
+  - README.md
