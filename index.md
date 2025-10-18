@@ -1,10 +1,12 @@
 # **Computer Science 499 ePortfolio**
 
+
 ## **Welcome**
 Welcome to my ePortfolio, my name is Issaih Perez and this portfolio showcases
 the knowledge and skills I have gained and developed throughout the years of
 studying a Computer Science Degree while at Southern New Hampshire University (SNHU).
 
+![Professional Self Assessment](C:\Users\seamu\Downloads\Capstone-2025\assets\images\selfassessment.jpg)
 ## **Professional Self Assessment**
 Throughout my academic and professional journey, I have developed a broad and practical
 foundation in computer science, supported by real world applications in software development,
@@ -54,6 +56,7 @@ application, I used JUnit testing o findividual components, combining manual and
 robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
 
 # **Enhanced Artifacts**
+
 
 ## **Code Review**
 Link To Code Review: [Code Review](https://www.youtube.com/watch?v=Prg9hNZymoQ)
