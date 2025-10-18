@@ -52,3 +52,41 @@ defensive design techniques when developing code. In another project, I develope
 allowed users to schedule future appointments with verification steps like ID numbers and descriptions. To test this
 application, I used JUnit testing o findividual components, combining manual and automated methods to ensure
 robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
+
+# **Enhanced Artifacts**
+Throughout this degree, I've developed a strong understanding of what it means to be a Computer Science
+professional. The first key artifact I chose to demonstrate this was from CS 250 Software Development Lifecycle and it
+displays my ability to apply well founded and innovative techniques in real world contexts. This project originally
+involved a Java based application, using Swing, that displayed a browser interface with different destinations, allowing
+users to explore various travel destinations through clickable links. As part of improving the artifact, I ported
+the entire application from Java to C++, which was a challenging task as I had to learn a new to me program called
+CMake, which took place of Java's Swing framework. The transition involved thoughtful decision making and trade offs,
+particularly in adapting the interface and preserving the application's fuinctionality across different languages and
+platforms. From a collaborative perspective, I enhanced the project by integrating interactive features such as external
+links, creating a more connected and engaging user experience. This supports collaboration and information sharing
+accross different systems, demonstrating how software can bridge gaps between various areas within the field. By combining
+strong technical skills with a focus on usability and cross functional collaboration, this artifact represents my growth
+as a well rounded and capable Computer Science Professional.
+
+The second artifact I chose was from CS 330 Computational Graphics and Visualization and this artifact showcases my ability
+to develop appropriate solutions to complex design problems while effectively balancing the trade offs that come with
+different design decisions. The project, completed using SNHU's Virtual Lab environment, involved creating a 3D mesh
+scenery executable using various shapes and objects constructed through code. During the outset, I encountered a
+challenge as I didn't have all the necessary files to run the program. To overcome this, I tracked down older versions
+I had saved of the code and update them to meet my current coding standards and requirements. This process required
+not just technical problem solving but also a keen eye for detail and a strong sense of design consistency. Of the 
+three chosen artifacts, this one was the most time consuming as much of my time was spent fine tuning and making
+deliberate choices about what elements to emphasize. I had to carefully balance components such as lighting, shapes, 
+textures pitches, and other visual elements. This iterative refinement process demonstrates my ability to evaluate trade 
+offs, prioritize features, and make informed decisions which are skills that are essential both in academic settings and
+professional client work. 
+
+The final artifact was pulled from CS340 Client Server Development and demonstrates my ability to design, develop, and
+deliver technically sound, professional quality work while applying a security focused mindset. Built in Python using
+.ipynb and .py files, the project is a web based application that interacts with a database of animals. I restructured
+the original setup by consolidating multiple access points into a single entry, improving usability and security. I updated
+the CRUD operations for better accuracy and implemented defensive programming practices, such as using .env fields to
+protect user's credentials and added additional checks for validating user input to help prevent errors and null entries.
+While the backend functionality and CRUD logic work as intended, I encountered an unresolved issue with the Juptyer Dash script.
+Due to limitations with the Dash server environment in the Virtual Lab, the dashboard cannot render externally. Despite this,
+the core logic performs as expected, showcasing my problem solving and security aware developmental skills. 
