@@ -9,7 +9,7 @@ studying a Computer Science Degree while at Southern New Hampshire University (S
 
 <img src="assets/images/selfassessment.jpg" alt="Professional Self Assessment Picture" width="500">
 
-## **Professional Self Assessment**
+## **Professional Self Assessment:**
 Throughout my academic and professional journey, I have developed a broad and practical
 foundation in computer science, supported by real world applications in software development,
 data management, and cybersecurity. My experiences reflect a strong ability to work
@@ -17,9 +17,7 @@ collaboratively, communicate effectively with stakeholders, and apply technical 
 data structures, algorithms, databases, and secure software development.
 
 
-<img src="assets/images/teamcollaboration.jpg" alt="Team Collaboration Picture" width="400">
-
-### ***Collaborating in a Team Environment***
+### ***Collaborating in a Team Environment:***
 Collaboration has been central to my development as a software engineer. During my senior year
 studying at SNHU, I worked on developing a video game prototype that consisted of 10 different working
 assets and realistic interactions with the system. My responsibilities included the development of all
@@ -28,23 +26,21 @@ using Agile methodologies, closely monitored and recorded/saved the updated work
 coordinated/led daily follow up meetings to ensure smooth progress and accurate data retention.
 
 
-<img src="assets/images/communicating.jpg" alt="Communicating with Shareholders Picture" width="500">
-
-### ***Communicating with Stakeholders***
+### ***Communicating with Stakeholders:***
 Effective communication with non technical stakeholders has been essential to translating technical
 ideas into actionable solutions with non technical audiences. Being able to effectively communicate
 different design elements across varying levels of technical understanding will be paramount in my
 success as communicating specialized information effectively helps further my developmental progress
 as well as my reputation as effective communication is one of the biggest hurdles developers might face.
 
-### ***Data Structures and Algorithms***
+### ***Data Structures and Algorithms:***
 My proficiency in data structures and algorithms is reflected in several challenging projects. In one
 course, I built an Order Tracking system for Quantigration using SQL to locate and filter orders by state,
 item SKU, count, and returns. In another, I developed a Course Planner that parsed Excel Data and use a 
 hashtable to store and display course information, helping students plan their schedules based on the course
 names, numbers and prerequisites. 
 
-### ***Software Engineering and Databases***
+### ***Software Engineering and Databases:***
 Throughout my academic terms, I've developed a variety of software programs, some database driven and others
 standalone. One notable project involved creating a Top 5 Destinations List for various U.S. states, which
 featured clickable links directing users to travel agencies that could assist in booking trips to their chosen
@@ -53,7 +49,7 @@ I developd a DriverPass system that integrated multiple DMV databases and licens
 The application allowed users to shcedule appointments with available instructors and access official DMV study
 materials, offering a streamlined exdperience for individuals preparing for their driving exams.
 
-### ***Security***
+### ***Security:***
 Security has been a key theme across several projects. In one, I built an SSL BootSpring Appliction Server using
 the SHA-256 Cipher Algorithm to encrypt files with a checksum signature for better security. I also utilized a
 Dependency Check tool to analyze and address vulnerabilities in third party libraries, updating insecure packages,
@@ -63,7 +59,10 @@ allowed users to schedule future appointments with verification steps like ID nu
 application, I used JUnit testing o findividual components, combining manual and automated methods to ensure
 robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
 
-# **Enhanced Artifacts**
+
+<img src="assets/images/cleanandpolish.jpg" alt="Clean and Polish Picture" width="500">
+
+# **Enhanced Artifacts:**
 
 
 ## **Code Review**
