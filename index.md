@@ -104,3 +104,9 @@ protect user's credentials and added additional checks for validating user input
 While the backend functionality and CRUD logic work as intended, I encountered an unresolved issue with the Juptyer Dash script.
 Due to limitations with the Dash server environment in the Virtual Lab, the dashboard cannot render externally. Despite this,
 the core logic performs as expected, showcasing my problem solving and security aware developmental skills. 
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
