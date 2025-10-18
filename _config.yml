@@ -1,8 +1,10 @@
 theme: jekyll-theme-midnight
-title: Issaih Perez ePortofolio Page!
-url: "https://github.com/IssaihPerez/Capstone-2025"
+title: Issaih Perez's ePortofolio Page!
 
-toc: true
+# toc: true   Uncomment if you want Table of Contents Enabled
+links:
+    - label: "GitHub"    
+      url: "https://github.com/IssaihPerez/Capstone-2025"
 
 exclude:
   - README.md

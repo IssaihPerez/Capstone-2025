@@ -1,4 +1,4 @@
-# ** Computer Science 499 ePortfolio**
+# **Computer Science 499 ePortfolio**
 
 
 ## **Welcome**
