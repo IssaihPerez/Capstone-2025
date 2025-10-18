@@ -11,3 +11,18 @@ foundation in computer science, supported by real world applications in software
 data management, and cybersecurity. My experiences reflect a strong ability to work
 collaboratively, communicate effectively with stakeholders, and apply technical expertise in
 data structures, algorithms, databases, and secure software development.
+
+### ***Collaborating in a Team Environment***
+Collaboration has been central to my development as a software engineer. During my senior year
+studying at SNHU, I worked on developing a video game prototype that consisted of 10 different working
+assets and realistic interactions with the system. My responsibilities included the development of all
+of the AI developed assets, different UI or HUD capabilities, and I coordinated closely with teammates
+using Agile methodologies, closely monitored and recorded/saved the updated work using Git, and
+coordinated/led daily follow up meetings to ensure smooth progress and accurate data retention.
+
+### ***Communicating with Stakeholders***
+Effective communication with non technical stakeholders has been essential to translating technical
+ideas into actionable solutions with non technical audiences. Being able to effectively communicate
+different design elements across varying levels of technical understanding will be paramount in my
+success as communicating specialized information effectively helps further my developmental progress
+as well as my reputation as effective communication is one of the biggest hurdles developers might face.
