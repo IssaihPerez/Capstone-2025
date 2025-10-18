@@ -56,7 +56,7 @@ robust input validation and reduce potential vulnerabilities from unauthorized a
 # **Enhanced Artifacts**
 
 ## **Code Review**
-Link To Code Review: https://www.youtube.com/watch?v=Prg9hNZymoQ
+Link To Code Review: [Code Review](https://www.youtube.com/watch?v=Prg9hNZymoQ)
 
 Throughout this degree, I've developed a strong understanding of what it means to be a Computer Science
 professional. The first key artifact I chose to demonstrate this was from CS 250 Software Development Lifecycle and it
