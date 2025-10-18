@@ -42,7 +42,7 @@ names, numbers, and prerequisites.
 
 ***Software Engineering and Databases:***
 Throughout my academic terms, I’ve developed a variety of software programs, some database driven and others
-standalone. One notable project involved creating a “Top 5 Destinations” list for various U.S. states, which
+standalone. One notable project involved creating a "Top 5 Destinations" list for various U.S. states, which
 featured clickable links directing users to travel agencies that could assist in booking trips to their chosen
 locations. This project focused on enhancing user interaction and providing helpful resources. In another course,
 I developed a DriverPass system that integrated multiple DMV databases and licensed driving instructor accounts.
@@ -80,7 +80,7 @@ The second artifact I chose was from CS 330 Computational Graphics and Visualiza
 ability to develop appropriate solutions to complex design problems while effectively balancing the trade offs that
 come with different design decisions. The project, completed using the Virtual Lab environment, involved creating a 3D
 mesh scenery application using various shapes and objects constructed through code. At the outset, I encountered a
-challenge: I didn’t have all the necessary files. To overcome this, I had to track down older versions I had saved
+challenge I didn’t have all the necessary files. To overcome this, I had to track down older versions I had saved
 and update them to meet my current coding standards/requirements. This process required not just technical problem solving
 but also a keen eye for detail and a strong sense of design consistency. Of the three artifacts I’ve selected, this one
 was the most time consuming as much of my time was spent fine tuning and making deliberate choices about what elements
