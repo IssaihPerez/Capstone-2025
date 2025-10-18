@@ -6,7 +6,7 @@ Welcome to my ePortfolio, my name is Issaih Perez and this portfolio showcases
 the knowledge and skills I have gained and developed throughout the years of
 studying a Computer Science Degree while at Southern New Hampshire University (SNHU).
 
-![Professional Self Assessment Picture](\assets\images\selfassessment.jpg)
+![Professional Self Assessment Picture](assets/images/selfassessment.jpg)
 ## **Professional Self Assessment**
 Throughout my academic and professional journey, I have developed a broad and practical
 foundation in computer science, supported by real world applications in software development,
