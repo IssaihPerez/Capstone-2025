@@ -34,7 +34,7 @@ item SKU, count, and returns. In another, I developed a Course Planner that pars
 hashtable to store and display course information, helping students plan their schedules based on the course
 names, numbers and prerequisites. 
 
-### **Software Engineering and Databases***
+### ***Software Engineering and Databases***
 Throughout my academic terms, I've developed a variety of software programs, some database driven and others
 standalone. One notable project involved creating a Top 5 Destinations List for various U.S. states, which
 featured clickable links directing users to travel agencies that could assist in booking trips to their chosen
@@ -42,3 +42,13 @@ locations. This project focused on enhancing user interaction and providing helf
 I developd a DriverPass system that integrated multiple DMV databases and licensed driving instructor accounts. 
 The application allowed users to shcedule appointments with available instructors and access official DMV study
 materials, offering a streamlined exdperience for individuals preparing for their driving exams.
+
+### ***Security***
+Security has been a key theme across several projects. In one, I built an SSL BootSpring Appliction Server using
+the SHA-256 Cipher Algorithm to encrypt files with a checksum signature for better security. I also utilized a
+Dependency Check tool to analyze and address vulnerabilities in third party libraries, updating insecure packages,
+or suppressing false positives where appropriate. This helped minimize my project's security flaws and practiced
+defensive design techniques when developing code. In another project, I developed an Appointment Test class that
+allowed users to schedule future appointments with verification steps like ID numbers and descriptions. To test this
+application, I used JUnit testing o findividual components, combining manual and automated methods to ensure
+robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
