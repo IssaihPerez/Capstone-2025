@@ -60,7 +60,7 @@ application, I used JUnit testing o findividual components, combining manual and
 robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
 
 
-<img src="assets/images/cleanandpolish.jpg" alt="Clean and Polish Picture" width="500">
+<img src="assets/images/cleanandpolish.jpg" alt="Clean and Polish Picture" width="400">
 
 # **Enhanced Artifacts:**
 
@@ -107,6 +107,6 @@ the core logic performs as expected, showcasing my problem solving and security 
 
 <div style="text-align: right;">
     <a href="#">
-        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+        <button style="font-size: 10px; font-weight: 500; background: #8CD633; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
     </a>
 </div>
