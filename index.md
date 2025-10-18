@@ -86,7 +86,7 @@ but also a keen eye for detail and a strong sense of design consistency. Of the 
 was the most time consuming as much of my time was spent fine tuning and making deliberate choices about what elements
 to emphasize. I had to carefully balance components such as lighting, shapes, textures, pitches, and other visual
 elements. This iterative refinement process demonstrates my ability to evaluate trade offs, prioritize features, and
-make informed decisions skills that are essential both in academic settings and in professional client work.
+make informed decisions	skills that are essential both in academic settings and in professional client work.
 
 The final artifact was pulled from CS 340 Client Server Development and demonstrates my ability to design, develop,
 and deliver technically sound, professional quality work while applying a security focused mindset. Built in Python using
