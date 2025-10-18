@@ -42,7 +42,7 @@ names, numbers, and prerequisites.
 
 ***Software Engineering and Databases:***
 Throughout my academic terms, I’ve developed a variety of software programs, some database driven and others
-standalone. One notable project involved creating a "Top 5 Destinations" list for various U.S. states, which
+standalone. One notable project involved creating a Top 5 Destinations list for various U.S. states, which
 featured clickable links directing users to travel agencies that could assist in booking trips to their chosen
 locations. This project focused on enhancing user interaction and providing helpful resources. In another course,
 I developed a DriverPass system that integrated multiple DMV databases and licensed driving instructor accounts.
@@ -60,7 +60,7 @@ allowed users to schedule future appointments with verification steps like ID nu
 application, I used JUnit for automated testing of individual components, combining manual and automated methods to 
 ensure robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
 
-***Enhanced Artifacts***
+## **Enhanced Artifacts**
 Throughout this degree, I’ve developed a strong understanding of what it means to be a Computer Science 
 professional. The first key artifact I chose was from CS 250 Software Development Lifecycle and it demonstrates 
 my ability to apply well founded and innovative techniques in real world contexts. This project originally involved
@@ -81,7 +81,7 @@ ability to develop appropriate solutions to complex design problems while effect
 come with different design decisions. The project, completed using the Virtual Lab environment, involved creating a 3D
 mesh scenery application using various shapes and objects constructed through code. At the outset, I encountered a
 challenge I didn’t have all the necessary files. To overcome this, I had to track down older versions I had saved
-and update them to meet my current coding standards/requirements. This process required not just technical problem solving
+and update them to meet my current coding standards and requirements. This process required not just technical problem solving
 but also a keen eye for detail and a strong sense of design consistency. Of the three artifacts I’ve selected, this one
 was the most time consuming as much of my time was spent fine tuning and making deliberate choices about what elements
 to emphasize. I had to carefully balance components such as lighting, shapes, textures, pitches, and other visual
