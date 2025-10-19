@@ -1,5 +1,6 @@
 # **Enhancement One: Software Design and Engineering**
 
+
 This artifact was initially one of the first coding projects I worked on during my time at
 SNHU. The project's main assignment was for me to create an executable of a Top 5 Destinations
 List of various U.S. states with links and images connected to it. My main goal was to improve
