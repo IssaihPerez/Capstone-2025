@@ -116,7 +116,7 @@ textures pitches, and other visual elements. This iterative refinement process d
 offs, prioritize features, and make informed decisions which are skills that are essential both in academic settings and
 professional client work. 
 
-<img id="databases" src="assets/images/databasesimage.jpg" alt="Databases Picture" title="Databases">
+<img src="assets/images/databasesimage.jpg" alt="Databases Picture" title="Databases" width="400">
 
 The final artifact was pulled from CS340 Client Server Development and demonstrates my ability to design, develop, and
 deliver technically sound, professional quality work while applying a security focused mindset. Built in Python using
