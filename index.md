@@ -17,7 +17,7 @@ collaboratively, communicate effectively with stakeholders, and apply technical 
 data structures, algorithms, databases, and secure software development.
 
 
-<img src="assets/images/GAMCollab.jpg" alt="GAM 305 Collaboration Document Picture">
+<img src="assets/images/GAMCollab.png" alt="GAM 305 Collaboration Document Picture">
 
 ### ***Collaborating in a Team Environment:***
 Collaboration has been central to my development as a software engineer. During my senior year
