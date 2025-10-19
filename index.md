@@ -17,6 +17,8 @@ collaboratively, communicate effectively with stakeholders, and apply technical 
 data structures, algorithms, databases, and secure software development.
 
 
+<img src="assets/images/GAMCollab.jpg" alt="GAM 305 Collaboration Document Picture" width="500">
+
 ### ***Collaborating in a Team Environment:***
 Collaboration has been central to my development as a software engineer. During my senior year
 studying at SNHU, I worked on developing a video game prototype that consisted of 10 different working
@@ -25,13 +27,17 @@ of the AI developed assets, different UI or HUD capabilities, and I coordinated 
 using Agile methodologies, closely monitored and recorded/saved the updated work using Git, and
 coordinated/led daily follow up meetings to ensure smooth progress and accurate data retention.
 
-
 ### ***Communicating with Stakeholders:***
 Effective communication with non technical stakeholders has been essential to translating technical
-ideas into actionable solutions with non technical audiences. Being able to effectively communicate
+ideas into actionable solutions with non technical audiences. In one of my courses, I developed a
+Powerpoint Presentation that demonstrated all of the technical changes made to my work but communicates
+the design and functionality choices in a non-technical manner. Being able to effectively communicate
 different design elements across varying levels of technical understanding will be paramount in my
 success as communicating specialized information effectively helps further my developmental progress
 as well as my reputation as effective communication is one of the biggest hurdles developers might face.
+
+
+<img src="assets/images/databaseSQL.jpg" alt="Database SQL Picture" width="500">
 
 ### ***Data Structures and Algorithms:***
 My proficiency in data structures and algorithms is reflected in several challenging projects. In one
