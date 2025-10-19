@@ -1,7 +1,7 @@
 # **Computer Science 499 ePortfolio**
 
 
-## **Welcome**
+## ***Welcome***
 Welcome to my ePortfolio, my name is Issaih Perez and this portfolio showcases
 the knowledge and skills I have gained and developed throughout the years of
 studying a Computer Science Degree while at Southern New Hampshire University (SNHU).
@@ -88,7 +88,7 @@ robust input validation and reduce potential vulnerabilities from unauthorized a
 ## **Code Review**
 Link To Code Review: [Code Review](https://www.youtube.com/watch?v=Prg9hNZymoQ)
 
-
+## **Software Design and Engineering**
 Throughout this degree, I've developed a strong understanding of what it means to be a Computer Science
 professional. The first key artifact I chose to demonstrate this was from CS 250 Software Development Lifecycle and it
 displays my ability to apply well founded and innovative techniques in real world contexts. This project originally
@@ -103,6 +103,7 @@ accross different systems, demonstrating how software can bridge gaps between va
 strong technical skills with a focus on usability and cross functional collaboration, this artifact represents my growth
 as a well rounded and capable Computer Science Professional.
 
+## **Algorithms and Datastructure**
 The second artifact I chose was from CS 330 Computational Graphics and Visualization and this artifact showcases my ability
 to develop appropriate solutions to complex design problems while effectively balancing the trade offs that come with
 different design decisions. The project, completed using SNHU's Virtual Lab environment, involved creating a 3D mesh
@@ -116,8 +117,7 @@ textures pitches, and other visual elements. This iterative refinement process d
 offs, prioritize features, and make informed decisions which are skills that are essential both in academic settings and
 professional client work. 
 
-<img src="assets/images/databasesimage.jpg" alt="Databases Picture" title="Databases" width="400">
-
+## **Databases**
 The final artifact was pulled from CS340 Client Server Development and demonstrates my ability to design, develop, and
 deliver technically sound, professional quality work while applying a security focused mindset. Built in Python using
 .ipynb and .py files, the project is a web based application that interacts with a database of animals. I restructured
