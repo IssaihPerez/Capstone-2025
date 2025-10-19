@@ -1,6 +1,7 @@
 # **Computer Science 499 ePortfolio**
 
 
+
 ## ***Welcome***
 Welcome to my ePortfolio, my name is Issaih Perez and this portfolio showcases
 the knowledge and skills I have gained and developed throughout the years of
@@ -103,6 +104,8 @@ accross different systems, demonstrating how software can bridge gaps between va
 strong technical skills with a focus on usability and cross functional collaboration, this artifact represents my growth
 as a well rounded and capable Computer Science Professional.
 
+<img src="assets/images/Top5Destinations.png" alt="Top5DestinationsCMake Picture">
+
 ## **Algorithms and Datastructure**
 The second artifact I chose was from CS 330 Computational Graphics and Visualization and this artifact showcases my ability
 to develop appropriate solutions to complex design problems while effectively balancing the trade offs that come with
@@ -127,6 +130,8 @@ protect user's credentials and added additional checks for validating user input
 While the backend functionality and CRUD logic work as intended, I encountered an unresolved issue with the Juptyer Dash script.
 Due to limitations with the Dash server environment in the Virtual Lab, the dashboard cannot render externally. Despite this,
 the core logic performs as expected, showcasing my problem solving and security aware developmental skills. 
+
+<img src="assets/images/AnimalShelter.png" alt="Animal Shelter Database Picture">
 
 <div style="text-align: right;">
     <a href="#">
