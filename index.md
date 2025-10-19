@@ -46,7 +46,7 @@ item SKU, count, and returns. In another, I developed a Course Planner that pars
 hashtable to store and display course information, helping students plan their schedules based on the course
 names, numbers and prerequisites. 
 
-<img src="assets/images/DatabaseSQL.jpg" alt="Database SQL Picture" style="border: 5px solid black;">
+<img src="assets/images/DatabaseSQL.jpg" alt="Database SQL Picture" style="border: 5px solid grey;">
 
 
 
