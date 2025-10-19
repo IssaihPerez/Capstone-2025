@@ -17,7 +17,7 @@ collaboratively, communicate effectively with stakeholders, and apply technical 
 data structures, algorithms, databases, and secure software development.
 
 
-### ***Collaborating in a Team Environment:***          [Link to GAM305 Course](https://github.com/AshwinC89/GAM305Team4)
+### ***Collaborating in a Team Environment:***          <div style="text-align: right;">[Link to GAM305 Course](https://github.com/AshwinC89/GAM305Team4)
 Collaboration has been central to my development as a software engineer. During my senior year
 studying at SNHU, I worked on developing a video game prototype that consisted of 10 different working
 assets and realistic interactions with the system. My responsibilities included the development of all
@@ -50,7 +50,7 @@ names, numbers and prerequisites.
 
 
 
-### ***Software Engineering and Databases:***           [Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
+### ***Software Engineering and Databases:***           <div style="text-align: right;">[Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
 Throughout my academic terms, I've developed a variety of software programs, some database driven and others
 standalone. One notable project involved creating a Top 5 Destinations List for various U.S. states, which
 featured clickable links directing users to travel agencies that could assist in booking trips to their chosen
@@ -63,7 +63,7 @@ DMV study materials, offering a streamlined exdperience for individuals preparin
 
 
 
-### ***Security:***                                     [Link to CS 305 Course](https://github.com/IssaihPerez/CS305-Software-Security)
+### ***Security:***                                     <div style="text-align: right;">[Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
 Security has been a key theme across several projects. In one, I built an SSL BootSpring Appliction Server using
 the SHA-256 Cipher Algorithm to encrypt files with a checksum signature for better security. I also utilized a
 Dependency Check tool to analyze and address vulnerabilities in third party libraries, updating insecure packages,
