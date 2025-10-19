@@ -56,7 +56,7 @@ out I did everything right just to not see something work and finding out someth
 installed was time consuming. This was honestly a very lengthy process, and I am content with
 how it turned out but it definitely took it's time. I learned the importance of paying
 attention to all the little details, especially the version numbers as finding out that the
-entire executable didn’t want to work because I put 6.6.2 instead of 6.9.2 really annoyed me
+entire executable didn't want to work because I put 6.6.2 instead of 6.9.2 really annoyed me
 as I was stuck for days as to why this command didn’t work. I struggled to find out why the
 command prompt would keep spitting out errors even though I clearly detailed the path towards
 the tools was part of what I struggled the most with, as there was a lot of set up issues as
