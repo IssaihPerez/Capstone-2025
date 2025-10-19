@@ -1,1 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Visual Studio / C++
+Debug/
+Release/
+x64/
+*.pdb
+*.obj
+*.exe
+*.dll
 .vs/
+*.vcxproj.user
+*.suo
+*.vscode/
+
+# Libraries
+include/
+external/
+libs/
