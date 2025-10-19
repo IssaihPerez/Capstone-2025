@@ -17,7 +17,7 @@ collaboratively, communicate effectively with stakeholders, and apply technical 
 data structures, algorithms, databases, and secure software development.
 
 
-<img src="assets/images/GAMCollab.jpg" alt="GAM 305 Collaboration Document Picture" width="500">
+<img src="assets/images/GAMCollab.jpg" alt="GAM 305 Collaboration Document Picture">
 
 ### ***Collaborating in a Team Environment:***
 Collaboration has been central to my development as a software engineer. During my senior year
@@ -37,7 +37,7 @@ success as communicating specialized information effectively helps further my de
 as well as my reputation as effective communication is one of the biggest hurdles developers might face.
 
 
-<img src="assets/images/databaseSQL.jpg" alt="Database SQL Picture" width="500">
+<img src="assets/images/databaseSQL.jpg" alt="Database SQL Picture">
 
 ### ***Data Structures and Algorithms:***
 My proficiency in data structures and algorithms is reflected in several challenging projects. In one
