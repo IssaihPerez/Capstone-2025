@@ -44,6 +44,6 @@ there was more success than issues, it did help me learn how to be more defensiv
 in my coding as well as what to look for when I am trying to determine additional
 features to add to my work. 
 
-<img src="assets/images/AnimalDasherror1.png" alt="Animal Shelter Error #1 Picture">
+<img src="assets/images/AnimalDashError1.png" alt="Animal Shelter Error #1 Picture">
 
 [Link to Artifacts Initial Repository](https://github.com/IssaihPerez/CS340-Client-Server-Development)
