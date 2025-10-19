@@ -17,8 +17,6 @@ collaboratively, communicate effectively with stakeholders, and apply technical 
 data structures, algorithms, databases, and secure software development.
 
 
-<img src="assets/images/GAMCollab.png" alt="GAM 305 Collaboration Document Picture">
-
 ### ***Collaborating in a Team Environment:***
 Collaboration has been central to my development as a software engineer. During my senior year
 studying at SNHU, I worked on developing a video game prototype that consisted of 10 different working
@@ -26,6 +24,10 @@ assets and realistic interactions with the system. My responsibilities included 
 of the AI developed assets, different UI or HUD capabilities, and I coordinated closely with teammates
 using Agile methodologies, closely monitored and recorded/saved the updated work using Git, and
 coordinated/led daily follow up meetings to ensure smooth progress and accurate data retention.
+
+<img src="assets/images/GAMCollab.png" alt="GAM 305 Collaboration Document Picture">
+
+
 
 ### ***Communicating with Stakeholders:***
 Effective communication with non technical stakeholders has been essential to translating technical
@@ -37,8 +39,6 @@ success as communicating specialized information effectively helps further my de
 as well as my reputation as effective communication is one of the biggest hurdles developers might face.
 
 
-<img src="assets/images/databaseSQL.jpg" alt="Database SQL Picture">
-
 ### ***Data Structures and Algorithms:***
 My proficiency in data structures and algorithms is reflected in several challenging projects. In one
 course, I built an Order Tracking system for Quantigration using SQL to locate and filter orders by state,
@@ -46,14 +46,22 @@ item SKU, count, and returns. In another, I developed a Course Planner that pars
 hashtable to store and display course information, helping students plan their schedules based on the course
 names, numbers and prerequisites. 
 
+<img src="assets/images/DatabaseSQL.jpg" alt="Database SQL Picture">
+
+
+
 ### ***Software Engineering and Databases:***
 Throughout my academic terms, I've developed a variety of software programs, some database driven and others
 standalone. One notable project involved creating a Top 5 Destinations List for various U.S. states, which
 featured clickable links directing users to travel agencies that could assist in booking trips to their chosen
 locations. This project focused on enhancing user interaction and providing helfpful resources. In another course,
-I developd a DriverPass system that integrated multiple DMV databases and licensed driving instructor accounts. 
-The application allowed users to shcedule appointments with available instructors and access official DMV study
-materials, offering a streamlined exdperience for individuals preparing for their driving exams.
+I planned and developed a DriverPass system that integrated multiple DMV databases and licensed driving instructor 
+accounts. The application allowed users to shcedule appointments with available instructors and access official 
+DMV study materials, offering a streamlined exdperience for individuals preparing for their driving exams.
+
+<img src="assets/images/DriverPassDiagram.jpg" alt="Driver Pass Diagram Picture">
+
+
 
 ### ***Security:***
 Security has been a key theme across several projects. In one, I built an SSL BootSpring Appliction Server using
@@ -62,8 +70,10 @@ Dependency Check tool to analyze and address vulnerabilities in third party libr
 or suppressing false positives where appropriate. This helped minimize my project's security flaws and practiced
 defensive design techniques when developing code. In another project, I developed an Appointment Test class that
 allowed users to schedule future appointments with verification steps like ID numbers and descriptions. To test this
-application, I used JUnit testing o findividual components, combining manual and automated methods to ensure
+application, I used JUnit testing to test individual components, combining manual and automated methods to ensure
 robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
+
+<img src="assets/images/DependencyCheck.png" alt="Dependency Check Picture">
 
 
 <img src="assets/images/cleanandpolish.jpg" alt="Clean and Polish Picture" width="400">
