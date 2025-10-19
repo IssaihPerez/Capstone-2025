@@ -1,5 +1,5 @@
-# **<ins>Computer Science 499 ePortfolio</ins>**
-\
+# **<ins>Computer Science 499 ePortfolio</ins>\**
+
 
 ## **Welcome**
 Welcome to my ePortfolio, my name is Issaih Perez and this portfolio showcases
