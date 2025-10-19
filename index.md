@@ -1,4 +1,4 @@
-# **Computer Science 499 ePortfolio**
+# **<ins>Computer Science 499 ePortfolio</ins>**
 
 
 ## **Welcome**
