@@ -1,30 +1,19 @@
 # **Enhancement One: Software Design and Engineering**
 
-This artifact was initially one of the first coding projects, from CS250, where I created
-a Top 5 Destinations List of locations with a link and picture for the user(s) to see
-and click on and explore with. This project was created some time in July or August of
-last year, and was a test to see how I would be able to improve already existing code
-(Java specifically) and add some more depth to it, allowing users to be able to look at
-pretty pictures of different locations and have a link to a travel guide for them to
-look at it if they get interested in the chosen location. 
+This artifact was initially one of the first coding projects I worked on during my time at
+SNHU. The project's main assignment was for me to create an executable of a Top 5 Destinations
+List of various U.S. states with links and images connected to it. My main goal was to improve
+upon some starter code (Java specifically) I received and add some more details to the application. 
 
 <img src="assets/images/Top5Destinations.png" alt="Top5DestinationsCMake Picture">
 
-I mainly chose this item to demonstrate my ability to port one project’s code from one
-language to another, as well as adding some improvements to it. I personally haven’t 
-had much experience with C++, maybe one or two courses, and comparing it to my experience
-with Java or Python, I can say I am more comfortable with Java or Python. Being able to
-not only translate preexisting code from a language I am comfortable with to a language
-I don’t have much experience with helps showcase my skills in adapting and overcoming
-new challenges that I am faced with. After doing some research and investigations, I learned
-that C++ doesn’t have the same structure that Java did for this project, when listing the
-files/images for the user(s) to see, so I had to learn an entirely new piece of C++ tech
-called CMake. Having to learn this program or new tech was very challenging, especially as I
-have never used this program before and had to spend a lot of time testing and trying to fix
-different issues with the program. The artifact was improved by having newer images
-attached to the page, and by having a completely new way of orientating the lay out
-of the project for the user(s) to see. The code was refined to be as reusable as possible
-while also maintaining the core functionality of the project. 
+This artifact was chosen to demonstrate my ability to use well founded and innovative techniques,
+as I ported this Java program into C++, while maintaining the initial programs structure and 
+purpose. The initial program was an executable that opened up a browser interface that users can
+interact and scroll through. The page listed off different states with a link towards a travel agency
+that users can use to book or plan out trips to their selected state. When looking into porting the
+Java program into C++, I discovered that C++ doesn't have 
+
 
 The chosen artifact was pulled from CS 250: Software Development Lifecycle, this 
 demonstrated my ability to use well founded and innovative techniques as I ported this
@@ -33,7 +22,7 @@ it was ran in Java. The initial Program was created as an executable that opened
 page that showed a list of different destinations that the user can click on, and it would
 take them to a travel page where they can get information about that specific destination.
 When translating it to C++, I had to learn and utilize CMake to build the project since C++
-doesn’t have ‘Swing’ capabilities since that is a Java function. Learning a new program as
+doesn’t have "Swing" capabilities since that is a Java function. Learning a new program as
 well as porting a Java application into C++ was not an easy task but after successfully
 creating an executable that provides almost the same functionality as the Java program but
 in another language and using a different tool to program it, I can confidently say I
