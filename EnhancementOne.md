@@ -12,51 +12,42 @@ as I ported this Java program into C++, while maintaining the initial programs s
 purpose. The initial program was an executable that opened up a browser interface that users can
 interact and scroll through. The page listed off different states with a link towards a travel agency
 that users can use to book or plan out trips to their selected state. When looking into porting the
-Java program into C++, I discovered that C++ doesn't have 
+Java program into C++, I discovered that C++ doesn't have "Swing" capabilities like Java does, and
+since the program was written using "Swing" I needed to figure out an alternative programming method
+that has the same functionality as "Swing" in C++. After doing some researching and messing around I
+learned about something called CMake, which is a programming tool I have never heard of before, and
+found out that this tool is very similar to "Swing" in style but is for C++. After successfully porting
+the program from one programming language to another, as well as learning another C++ tool I previously
+never learned about, I can confidently say that I have showcased my ability to use well founded and
+innovative techniques to improve this artifact. Looking at my accomplishments in more broader terms, the
+added benefit of me adding in external links to other websites can help further the way my application
+can be utilized, as collaborating with other resources (such as web browsers) can help improve the uses an
+application can have, and further increasing the networking and connections one might have. Although having
+nice pictures helps enhance the application visually, allowing the user to have further interactions as well
+as providing ways for the user to keep progressing through the application to accomplish more than one thing
+really helps make it shine. For this specific example, having an application that not only advertises different
+places to travel but also provides ways for users to actually book or plan to travel to the listed places further
+improves what we can do in the tech field and the reputation of Computer Scientists.
 
-
-The chosen artifact was pulled from CS 250: Software Development Lifecycle, this 
-demonstrated my ability to use well founded and innovative techniques as I ported this
-project from Java into C++ and made it closely match what the initial program was when
-it was ran in Java. The initial Program was created as an executable that opened a browser
-page that showed a list of different destinations that the user can click on, and it would
-take them to a travel page where they can get information about that specific destination.
-When translating it to C++, I had to learn and utilize CMake to build the project since C++
-doesn’t have "Swing" capabilities since that is a Java function. Learning a new program as
-well as porting a Java application into C++ was not an easy task but after successfully
-creating an executable that provides almost the same functionality as the Java program but
-in another language and using a different tool to program it, I can confidently say I
-successfully used well-founded and innovative techniques to improve this artifact. Looking
-at it from the collaborative side, providing links or tools to reach out towards other
-websites or links provides a collaborative effort with other developers as building an
-application or program that connects with other areas of the Computer Science field helps
-improve the overall quality of work with other areas and provides a good working relationship
-with different areas of profession. Having only pictures gives a nice visual towards the
-application but adding more interactables such as links makes a world of difference, as it
-feels more cared for and helps connect from one development of the Computer Science world
-to another. 
-
-There were a lot of challenges that I had to overcome when modifying this artifact. Figuring
-out how to properly use and run CMake was a struggle as there isn’t much support or knowledge
-bases, at least that I could find, that helped me figure out my issues or what to do and what
-all to download. Having to constantly go through the installers and figure out what little
-box I didn’t check to get access to a specific tool was the most tedious process, as finding
-out I did everything right just to not see something work and finding out something wasn't
-installed was time consuming. This was honestly a very lengthy process, and I am content with
-how it turned out but it definitely took it's time. I learned the importance of paying
-attention to all the little details, especially the version numbers as finding out that the
-entire executable didn't want to work because I put 6.6.2 instead of 6.9.2 really annoyed me
-as I was stuck for days as to why this command didn’t work. I struggled to find out why the
-command prompt would keep spitting out errors even though I clearly detailed the path towards
-the tools was part of what I struggled the most with, as there was a lot of set up issues as
-I was downloading all of these tools with little to no experience with them. 
+There were quite a lot of challenges that I faced during the enhancing of this artifiact, as figuring
+out how to properly use and run CMake was no small feat, as I could barely find any documentation about the
+program or any guides on how to troubleshoot it. There were several instances where I had to reinstall the
+program because I forgot or didn't check off a specific box and it caused certain elements to not function
+properly. Although this was a time consuming process, once I figured out the installation errors, it wasn't
+smooth sailing as afterwards I had a couple issues when trying to run the program. A good amount of them
+were user error, as I quickly learned I wasn't the most accurate when it came to typing out the C++ code
+but after countless trials and erroring, I was able to figure out what was wrong and debug all the errors
+and get the program to function. Below will be an example of one such user error I had, as I listed the
+Programs Version to be 6.6.2 instead of 6.9.2, so when Visual Studio tried looking for an older version, it
+kept throwing back an error. 
 
 <img src="assets/images/CmakeError1.png" alt="Cmake Error #1 Picture">
 
 Overall, this was a great learning experience, and I learned that making sure little pieces of
-the project worked before doing the entire program was the way to go. Below will be a pictur of
-me making the actual program works before adding in the images, to where it will look like the
-image above. 
+the project worked before doing the entire program was the way to go. Below will be a picture of
+me making sure the actual program works before adding in the images, to where it will look like the
+image above. Paying attention to the details is what helped me make sure I was successful in the
+refinement of this artifact. 
 
 <img src="assets/images/CmakeProgress1.png" alt="Cmake Progress #1 Picture">
 
