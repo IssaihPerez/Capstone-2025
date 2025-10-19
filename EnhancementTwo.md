@@ -1,5 +1,6 @@
 # **Enhancement Two: Algorithms and Data Structures**
 
+
 This artifact was a project I had done closer towards my Sophomore year of
 my Computer Science Degree, and was one of the first couple projects where I
 learned about visualizing and designing different scenarios using code. This
