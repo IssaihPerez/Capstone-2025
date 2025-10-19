@@ -1,6 +1,6 @@
 # **<ins>Computer Science 499 ePortfolio</ins>**
 \
-\
+
 ## **Welcome**
 Welcome to my ePortfolio, my name is Issaih Perez and this portfolio showcases
 the knowledge and skills I have gained and developed throughout the years of
