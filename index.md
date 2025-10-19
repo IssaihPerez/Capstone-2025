@@ -17,7 +17,7 @@ collaboratively, communicate effectively with stakeholders, and apply technical 
 data structures, algorithms, databases, and secure software development.
 
 
-### ***Collaborating in a Team Environment:***          <div style="text-align: right;">[Link to GAM305 Course](https://github.com/AshwinC89/GAM305Team4)
+### ***Collaborating in a Team Environment:***          
 Collaboration has been central to my development as a software engineer. During my senior year
 studying at SNHU, I worked on developing a video game prototype that consisted of 10 different working
 assets and realistic interactions with the system. My responsibilities included the development of all
@@ -27,6 +27,7 @@ coordinated/led daily follow up meetings to ensure smooth progress and accurate 
 
 <img src="assets/images/GAMCollab.png" alt="GAM 305 Collaboration Document Picture">
 
+[Link to GAM305 Course](https://github.com/AshwinC89/GAM305Team4)
 
 
 ### ***Communicating with Stakeholders:***
@@ -50,7 +51,7 @@ names, numbers and prerequisites.
 
 
 
-### ***Software Engineering and Databases:***           <div style="text-align: right;">[Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
+### ***Software Engineering and Databases:***           
 Throughout my academic terms, I've developed a variety of software programs, some database driven and others
 standalone. One notable project involved creating a Top 5 Destinations List for various U.S. states, which
 featured clickable links directing users to travel agencies that could assist in booking trips to their chosen
@@ -61,9 +62,11 @@ DMV study materials, offering a streamlined exdperience for individuals preparin
 
 <img src="assets/images/DriverPassDiagram.jpg" alt="Driver Pass Diagram Picture">
 
+[Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
 
 
-### ***Security:***                                     <div style="text-align: right;">[Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
+
+### ***Security:***                                     
 Security has been a key theme across several projects. In one, I built an SSL BootSpring Appliction Server using
 the SHA-256 Cipher Algorithm to encrypt files with a checksum signature for better security. I also utilized a
 Dependency Check tool to analyze and address vulnerabilities in third party libraries, updating insecure packages,
@@ -75,6 +78,7 @@ robust input validation and reduce potential vulnerabilities from unauthorized a
 
 <img src="assets/images/DependencyCheck.png" alt="Dependency Check Picture">
 
+[Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
 
 
 # **Enhanced Artifacts:**
@@ -111,6 +115,8 @@ deliberate choices about what elements to emphasize. I had to carefully balance 
 textures pitches, and other visual elements. This iterative refinement process demonstrates my ability to evaluate trade 
 offs, prioritize features, and make informed decisions which are skills that are essential both in academic settings and
 professional client work. 
+
+<img src="assets/images/databasesimage.jpg" alt="Databases Picture" title="Databases">
 
 The final artifact was pulled from CS340 Client Server Development and demonstrates my ability to design, develop, and
 deliver technically sound, professional quality work while applying a security focused mindset. Built in Python using
