@@ -122,7 +122,7 @@ textures pitches, and other visual elements. This iterative refinement process d
 offs, prioritize features, and make informed decisions which are skills that are essential both in academic settings and
 professional client work. 
 
-<img src="assets/images/Shapesmesh.png" alt="Shapes Mesh Code Picture">
+<img src="assets/images/Shapesmeshes.png" alt="Shapes Mesh Code Picture">
 
 [Link to Artifact Enhancement #2](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementTwo.md)
 
