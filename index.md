@@ -135,6 +135,7 @@ While the backend functionality and CRUD logic work as intended, I encountered a
 Due to limitations with the Dash server environment in the Virtual Lab, the dashboard cannot render externally. Despite this,
 the core logic performs as expected, showcasing my problem solving and security aware developmental skills. 
 
+
 <img src="assets/images/AnimalShelter.png" alt="Animal Shelter Database Picture">
 
 [Link to Artifact Enhancement #3](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementThree.md)
