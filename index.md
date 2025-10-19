@@ -106,6 +106,8 @@ as a well rounded and capable Computer Science Professional.
 
 <img src="assets/images/Top5Destinations.png" alt="Top5DestinationsCMake Picture">
 
+[Link to Artifact Enhancement #1](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementOne.md)
+
 ## **Algorithms and Datastructure**
 The second artifact I chose was from CS 330 Computational Graphics and Visualization and this artifact showcases my ability
 to develop appropriate solutions to complex design problems while effectively balancing the trade offs that come with
@@ -120,6 +122,10 @@ textures pitches, and other visual elements. This iterative refinement process d
 offs, prioritize features, and make informed decisions which are skills that are essential both in academic settings and
 professional client work. 
 
+<img src="assets/images/Shapesmesh.png" alt="Shapes Mesh Code Picture">
+
+[Link to Artifact Enhancement #2](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementTwo.md)
+
 ## **Databases**
 The final artifact was pulled from CS340 Client Server Development and demonstrates my ability to design, develop, and
 deliver technically sound, professional quality work while applying a security focused mindset. Built in Python using
@@ -132,6 +138,8 @@ Due to limitations with the Dash server environment in the Virtual Lab, the dash
 the core logic performs as expected, showcasing my problem solving and security aware developmental skills. 
 
 <img src="assets/images/AnimalShelter.png" alt="Animal Shelter Database Picture">
+
+[Link to Artifact Enhancement #3](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementThree.md)
 
 <div style="text-align: right;">
     <a href="#">
