@@ -6,7 +6,7 @@ SNHU. The project's main assignment was for me to create an executable of a Top 
 List of various U.S. states with links and images connected to it. My main goal was to improve
 upon some starter code (Java specifically) I received and add some more details to the application. 
 
-<img src="assets/images/Top5Destinations.png" alt="Top5DestinationsCMake Picture">
+<img src="assets/images/Top5Destinations.png" alt="Top5DestinationsCMake Picture" style="border: 5px solid black;">
 
 This artifact was chosen to demonstrate my ability to use well founded and innovative techniques,
 as I ported this Java program into C++, while maintaining the initial programs structure and 
@@ -42,7 +42,7 @@ and get the program to function. Below will be an example of one such user error
 Programs Version to be 6.6.2 instead of 6.9.2, so when Visual Studio tried looking for an older version, it
 kept throwing back an error. 
 
-<img src="assets/images/CmakeError1.png" alt="Cmake Error #1 Picture">
+<img src="assets/images/CmakeError1.png" alt="Cmake Error #1 Picture" style="border: 5px solid black;">
 
 Overall, this was a great learning experience, and I learned that making sure little pieces of
 the project worked before doing the entire program was the way to go. Below will be a picture of
@@ -50,7 +50,7 @@ me making sure the actual program works before adding in the images, to where it
 image above. Paying attention to the details is what helped me make sure I was successful in the
 refinement of this artifact. 
 
-<img src="assets/images/CmakeProgress1.png" alt="Cmake Progress #1 Picture">
+<img src="assets/images/CmakeProgress1.png" alt="Cmake Progress #1 Picture" style="border: 5px solid black;">
 
 
 [Link to Artifacts Initial Repository](https://github.com/IssaihPerez/CS250-Software-Development-Lifecycle)

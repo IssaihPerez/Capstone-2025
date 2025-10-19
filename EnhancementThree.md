@@ -16,7 +16,7 @@ There were different filters options that sort down the different types
 of animals, like bird, cat, dog, or a different animal rescue and the 
 chart and map would update depending on the filters chosen. 
 
-<img src="assets/images/AnimalShelter.png" alt="Animal Shelter Database Picture">
+<img src="assets/images/AnimalShelter.png" alt="Animal Shelter Database Picture" style="border: 5px solid black;" >
 
 The inclusion of this artifact is a mix of several different course
 specialties into one, and demonstrates my ability to design, develop,
@@ -44,6 +44,6 @@ there was more success than issues, it did help me learn how to be more defensiv
 in my coding as well as what to look for when I am trying to determine additional
 features to add to my work. 
 
-<img src="assets/images/AnimalDashError1.png" alt="Animal Shelter Error #1 Picture">
+<img src="assets/images/AnimalDashError1.png" alt="Animal Shelter Error #1 Picture" style="border: 5px solid black;">
 
 [Link to Artifacts Initial Repository](https://github.com/IssaihPerez/CS340-Client-Server-Development)

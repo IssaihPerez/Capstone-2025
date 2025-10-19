@@ -10,7 +10,7 @@ were created and adjusted using textures, as well as lighting sources to mimic
 real life scenes. This experience was very fascinating as the limit was really
 up to you and your imagination. 
 
-<img src="assets/images/ShapemeshesProgress1.png" alt="Shapemeshes Progress #1 Picture">
+<img src="assets/images/ShapemeshesProgress1.png" alt="Shapemeshes Progress #1 Picture" style="border: 5px solid black;">
 
 This artifact showcased my ability to provide appropriate solutions to
 projects while balancing the trade-offs that come when choosing different
@@ -37,6 +37,6 @@ I did to get this project working. Below would be one of the many errors I would
 get when trying to recreate the files from scratch, as well as getting the files
 to be as current as can be, while making sure the program ran. 
 
-<img src="assets/images/ShapemeshesError1.png" alt="Shapemeshes Error #1 Picture">
+<img src="assets/images/ShapemeshesError1.png" alt="Shapemeshes Error #1 Picture" style="border: 5px solid black;">
 
 [Link to Artifacts Initial Repository](https://github.com/IssaihPerez/CS330-Comp-Graphic-and-Visualization)

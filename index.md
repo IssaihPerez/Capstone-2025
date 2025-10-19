@@ -24,7 +24,7 @@ of the AI developed assets, different UI or HUD capabilities, and I coordinated 
 using Agile methodologies, closely monitored and recorded/saved the updated work using Git, and
 coordinated/led daily follow up meetings to ensure smooth progress and accurate data retention.
 
-<img src="assets/images/GAMCollab.png" alt="GAM 305 Collaboration Document Picture">
+<img src="assets/images/GAMCollab.png" alt="GAM 305 Collaboration Document Picture" style="border: 5px solid black;">
 
 [Link to GAM305 Course](https://github.com/AshwinC89/GAM305Team4)
 
@@ -46,7 +46,7 @@ item SKU, count, and returns. In another, I developed a Course Planner that pars
 hashtable to store and display course information, helping students plan their schedules based on the course
 names, numbers and prerequisites. 
 
-<img src="assets/images/DatabaseSQL.jpg" alt="Database SQL Picture">
+<img src="assets/images/DatabaseSQL.jpg" alt="Database SQL Picture" style="border: 5px solid black;">
 
 
 
@@ -59,7 +59,7 @@ I planned and developed a DriverPass system that integrated multiple DMV databas
 accounts. The application allowed users to shcedule appointments with available instructors and access official 
 DMV study materials, offering a streamlined exdperience for individuals preparing for their driving exams.
 
-<img src="assets/images/DriverPassDiagram.jpg" alt="Driver Pass Diagram Picture">
+<img src="assets/images/DriverPassDiagram.jpg" alt="Driver Pass Diagram Picture" style="border: 5px solid black;">
 
 [Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
 
@@ -75,14 +75,14 @@ allowed users to schedule future appointments with verification steps like ID nu
 application, I used JUnit testing to test individual components, combining manual and automated methods to ensure
 robust input validation and reduce potential vulnerabilities from unauthorized access or faulty logic. 
 
-<img src="assets/images/DependencyCheck.png" alt="Dependency Check Picture">
+<img src="assets/images/DependencyCheck.png" alt="Dependency Check Picture" style="border: 5px solid black;">
 
 [Link to CS 255 Course](https://github.com/IssaihPerez/CS255-System-Analysis-And-Design)
 
 
 # **Enhanced Artifacts:**
 
-<img src="assets/images/cleanandpolish.jpg" alt="Clean and Polish Picture" width="400">
+<img src="assets/images/cleanandpolish.jpg" alt="Clean and Polish Picture" width="400" style="border: 5px solid black;">
 
 ## **Code Review**
 Link To Code Review: [Code Review](https://www.youtube.com/watch?v=Prg9hNZymoQ)
@@ -102,7 +102,7 @@ accross different systems, demonstrating how software can bridge gaps between va
 strong technical skills with a focus on usability and cross functional collaboration, this artifact represents my growth
 as a well rounded and capable Computer Science Professional.
 
-<img src="assets/images/Top5Destinations.png" alt="Top5DestinationsCMake Picture">
+<img src="assets/images/Top5Destinations.png" alt="Top5DestinationsCMake Picture" style="border: 5px solid black;">
 
 [Link to Artifact Enhancement #1](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementOne.md)
 
@@ -120,7 +120,7 @@ textures pitches, and other visual elements. This iterative refinement process d
 offs, prioritize features, and make informed decisions which are skills that are essential both in academic settings and
 professional client work. 
 
-<img src="assets/images/Shapemeshes.png" alt="Shapes Mesh Code Picture">
+<img src="assets/images/Shapemeshes.png" alt="Shapes Mesh Code Picture" style="border: 5px solid black;">
 
 [Link to Artifact Enhancement #2](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementTwo.md)
 
@@ -136,7 +136,7 @@ Due to limitations with the Dash server environment in the Virtual Lab, the dash
 the core logic performs as expected, showcasing my problem solving and security aware developmental skills. 
 
 
-<img src="assets/images/AnimalShelter.png" alt="Animal Shelter Database Picture">
+<img src="assets/images/AnimalShelter.png" alt="Animal Shelter Database Picture" style="border: 5px solid black;">
 
 [Link to Artifact Enhancement #3](https://github.com/IssaihPerez/Capstone-2025/blob/main/EnhancementThree.md)
 
